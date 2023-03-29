@@ -1,7 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Christian! Here are some projects I've worked on!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Splunk Enterprise Enviroment</b>
+  -
+- <b>Honeypot Lab</b>
+  -
+- <b>Active Directory Home Lab</b>
+  -
+- <b>Kali Linux Lab</b>
+  -
+- <b>Python projects(In progress)</b>
+  - 
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/christian-draper-0a4818236/
 
 <!--
-**cdrap37/cdrap37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
